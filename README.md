@@ -38,3 +38,7 @@ Clone the project
 
 ![Screenshot (24)](https://github.com/Chandu-d-coder/Amazon-clone---Frontend/assets/144380893/410674ef-8a00-4ecd-abbc-ad5cbefc9604)
 <br>
+
+## Authors
+
+- Developed by Chandra Saikumar aka Chandu
