@@ -12,7 +12,23 @@ Built on HTML, CSS.
 - HTML and CSS : Built using HTML and CSS for easy understanding.
 - External Libraries : Utilizes Font Awesome for icons.
 
-## Peoject Screenshots
+  
+## Cloning the project
+
+Go to your project directory
+
+```bash
+  cd path/to/your/directory
+```
+
+Clone the project
+
+```bash
+  git clone https://github.com/Chandu-d-coder/Amazon-clone---Frontend.git
+```
+
+
+## Project Screenshots
 
 ![Screenshot (19)](https://github.com/Chandu-d-coder/Amazon-clone---Frontend/assets/144380893/e98a6ad6-a95f-4b3b-8727-f7b546c569b3)
 <br>
