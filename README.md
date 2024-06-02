@@ -1,6 +1,6 @@
 ![WhatsApp Image 2024-06-02 at 12 40 59_16c1b60c](https://github.com/Chandu-d-coder/Amazon-clone---Frontend/assets/144380893/b0ee2516-459b-4b23-88a6-c68c3444f454)
 
-# Amazon-clone - Frontend
+# Amazon clone - Frontend
 Explore our GitHub repository featuring a meticulously crafted frontend project inspired by the renowned Amazon website. Developed using HTML and CSS, this project faithfully replicates the user interface and experience of Amazon, offering insights into modern web development practices. Dive in and discover the intricacies of our codebase.
 
 ## 🛠 Skills
